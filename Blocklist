@@ -5,10 +5,11 @@
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
 # last updated:   Mon, 28 Sep 2026 14:20:18 GMT
-# entries:        3719
+# entries:        3720
 # format:         hosts (hosts -- in hosts file format)
 #
 # start date:    Fri, 06 Jun 2026 00:00:00
+0.0.0.0 cdn.bncloudfl.com
 0.0.0.0 12ezo5v60.com
 0.0.0.0 18videofullhd.info
 0.0.0.0 a.395bc5eaa00405ae7569b258246f23c4.com
