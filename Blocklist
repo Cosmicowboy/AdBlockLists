@@ -12,7 +12,7 @@
 #
 #Test site to make sure device is using pi hole and list is being used
 #
-0.0.0.0 https://purple.com/
+0.0.0.0 https://purple.com
 #
 0.0.0.0 cdn.bncloudfl.com
 0.0.0.0 12ezo5v60.com
