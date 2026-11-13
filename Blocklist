@@ -14,6 +14,12 @@
 #
 0.0.0.0 purple.com
 #
+#ifitblock
+0.0.0.0 mobile.launchdarkly.com
+0.0.0.0 clientsdk.launchdarkly.com
+0.0.0.0 ifit-wolf.s3.amazonaws.com
+0.0.0.0 ifit-wolf.s3-cdn.ifit.com
+#
 0.0.0.0 freedom251.com
 0.0.0.0 outebytech.com
 0.0.0.0 ybs2ffs7v.com
